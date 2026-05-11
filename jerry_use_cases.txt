@@ -1,0 +1,106 @@
+============================================================
+       JERRY AI ASSISTANT - REAL-WORLD USE CASES
+============================================================
+
+Jerry has 3 Core Superpowers:
+  - Voice Input      (Whisper STT)
+  - Screen Vision    (Groq Vision)
+  - Conversational Memory (User Profile)
+
+------------------------------------------------------------
+
+1. CODING ASSISTANT (Primary Use Case - Already Working!)
+------------------------------------------------------------
+Trigger: "Debug this error" / "Explain this function" / "Fix this"
+
+- Hold ALT+K while an error is on screen
+  Jerry reads it and explains or fixes it instantly
+- Works with VS Code, PyCharm, browser consoles, terminal
+  -- anything visible on screen
+- Better than Copilot for quick verbal questions
+  without breaking your coding flow
+
+
+2. STUDY & RESEARCH BUDDY
+------------------------------------------------------------
+Trigger: "Summarize what's on this page" / "Explain this concept" / "Quiz me on this"
+
+- Open a textbook PDF, lecture slides, or Wikipedia page
+  Jerry explains or summarizes it for you
+- Great for engineering and exam prep
+  Voice + screen = hands-free studying
+- Remembers things you tell it via user profile memory
+  Example: "I'm studying for my DBMS exam"
+
+
+3. DATA & DOCUMENT ANALYZER
+------------------------------------------------------------
+Trigger: "What does this table say?" / "Summarize this report"
+
+- Open any spreadsheet, PDF report, or chart
+  Jerry reads and interprets it instantly
+- Useful during meetings or reviews
+  when you need quick insights without deep reading
+
+
+4. GAMING CO-PILOT
+------------------------------------------------------------
+Trigger: "What should I build next?" / "How do I beat this level?"
+
+- Works with strategy games, puzzle games, RPGs
+- Captures screen and gives context-aware advice
+  without alt-tabbing to Google or YouTube
+- Real-time help while you're playing
+
+
+5. COMPARISON & DECISION HELPER
+------------------------------------------------------------
+Trigger: "Which one is better value?" / "Compare these two options"
+
+- While shopping online or comparing specs on screen
+  Jerry reads both options and advises you
+- Works on Amazon, Flipkart, tech spec sheets, job listings
+- Saves time — no need to open extra tabs
+
+
+6. MEETING / LECTURE NOTE-TAKER
+------------------------------------------------------------
+Trigger: "Note that: my project deadline is May 10th"
+
+- Jerry saves facts to your user profile memory automatically
+- Can recall tasks or reminders mid-session
+- Useful during lectures, team calls, or planning sessions
+
+
+7. LANGUAGE & WRITING ASSISTANT
+------------------------------------------------------------
+Trigger: "Rephrase this email" / "Fix the grammar in this paragraph"
+
+- Show text on screen, Jerry reads and rewrites it for you
+- Faster than copy-pasting into ChatGPT
+- Works with emails, reports, essays, messages
+
+
+8. ACCESSIBILITY TOOL
+------------------------------------------------------------
+- Hands-free PC control for people with mobility issues
+- Read out content from any screen verbally
+  No mouse or keyboard needed for queries
+- Makes computing more inclusive and easier
+
+
+------------------------------------------------------------
+          HIGHEST IMPACT USE CASES RIGHT NOW
+------------------------------------------------------------
+
+  Use Case                | Wow Factor  | Effort to Demo
+  ------------------------|-------------|----------------
+  Live Code Debugging     | ***** (5/5) | Zero - works now
+  Study Assistant         | ****  (4/5) | Zero - open PDF + talk
+  Gaming Co-pilot         | ****  (4/5) | Zero - open game + talk
+  Email / Writing Helper  | ***   (3/5) | Zero - open doc + talk
+
+NOTE: All of these work RIGHT NOW with zero extra code changes.
+The screen vision + voice combo is the killer feature. Lean into it!
+
+============================================================
